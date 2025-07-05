@@ -1,2 +1,2 @@
 # demo
-deno file
+demofile
